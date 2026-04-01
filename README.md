@@ -71,6 +71,6 @@ The workflow shows **real-world data forecasting processes**, emphasizing model 
 ---
 
 ## Conclusion
-The **SARIMA(0,1,2)(0,1,0)₄** model provides an accurate, well-diagnosed forecast of UK gas consumption and demonstrates expertise in **time series forecasting workflows**.
+The **SARIMA(0,1,2)(0,1,0)₄** model provides an accurate, well-diagnosed forecast of UK gas consumption. 
 
 ---
