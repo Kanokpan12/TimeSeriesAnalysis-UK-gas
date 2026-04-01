@@ -47,7 +47,7 @@ The workflow shows **real-world data forecasting processes**, emphasizing model 
 - **Time Series Modeling & Forecasting:** SARIMA, differencing, log transformation, seasonal adjustment  
 - **R Programming:** `astsa`, `forecast`, `tseries` for analysis, visualization, and diagnostics  
 - **Statistical Analysis:** ADF test, ACF/PACF, residual diagnostics, Ljung-Box test  
-- **Financial & Energy Forecasting Insight:** Trend + seasonality decomposition, multi-step forecasting, uncertainty evaluation  
+- **Forecasting Insight:** Trend + seasonality decomposition, multi-step forecasting, uncertainty evaluation  
 
 ---
 
